@@ -26,6 +26,10 @@ Este projeto é perfeito para quem quer aprender **DOM Manipulation**, **Eventos
 
 ---
 
+## 🚀 Site para demonstração
+
+- https://silvinompfs.github.io/CodeConnect/#
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** para a estruturação;
